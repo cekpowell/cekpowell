@@ -22,9 +22,8 @@ My name is **Charles Powell** and I am a fourth year MEng Computer Science stude
 
  - 🔍 **[CSVQL IDE]** : An IDE for the [CSVQL Programming Language]. CSVQL was a programming language I designed and wrote a compiler for to support the querying of CSV files. The CSVQL IDE supports the creation, editing and execution of CSVQL programs, and support has also been added for Java and Python programs to demonstrate the versatility of the program.
  
-- 
-
-
+- 👍🏻 **[Recommender Systems]** : A collection of recommender systems implemented using both classical (collaborative filtering) and modern (matrix factorization) approaches.
 
 [CSVQL IDE]:https://github.com/cekpowell/csvql-ide
 [CSVQL Programming Language]:https://github.com/cekpowell/csvql
+[Recommender Systems]: https://github.com/cekpowell/recommender-systems
