@@ -11,7 +11,7 @@ My name is **Charles Powell** and I am a fourth year MEng Computer Science stude
  
 #### ‼️ What I'm Working on Right Now ...
 
-> *Unfortunately, as both of my current projects are commercial, I am not able to provide public repositories for them :(*
+> *Unfortunately, as both of my current projects are commercial-based, I am not able to provide public repositories for them :(*
 
 - 🪧 **AutoSign** : A mobile application that supports automated inspection of signage on train vehicles using computer vision. Autosign is being developed with an industry partner - a manufacturer of train signs.
 - <img src="https://user-images.githubusercontent.com/60888912/202758624-a57289a8-306d-43b1-9a8c-c8ad40736741.png" width="15px"> **Grades** : A mobile application to help university students manage their workloads and keep track of their grades (*a continuation of **Agenda** - see below*).
