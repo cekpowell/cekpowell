@@ -22,15 +22,15 @@ My name is **Charles Powell** and I am a fourth year MEng Computer Science stude
  
 - 👍🏻 **[Recommender Systems]** : A collection of recommender systems implemented using both classical (collaborative filtering) and modern (matrix factorization) approaches.
 
+- 🌄 **[Scene Recognition Classifiers]** : A collection of scene recognition classifiers implemented using the OpenIMAJ framework.
+
 - 🌐 **[Distro]** : A distributed file storage system that can handle concurrent client requests and tolerates failures. The system maintains that each file is replicated across a given number of file store units, and that files are evenly distributed across units, despite failures/new units joining.
 
  - 🔍 **[CSVQL IDE]** : An IDE for the [CSVQL Programming Language]. CSVQL was a programming language I designed and wrote a compiler for to support the querying of CSV files. The CSVQL IDE supports the creation, editing and execution of CSVQL programs, and support has also been added for Java and Python programs to demonstrate the versatility of the program.
 
-- 🌄 **[Scene Recognition Classifiers]** : A collection of scene recognition classifiers implemented using the OpenIMAJ framework.
-
-[Distro]: https://github.com/cekpowell/distro
 [Recommender Systems]: https://github.com/cekpowell/recommender-systems
+[Scene Recognition Classifiers]: https://github.com/cekpowell/scene-recognition-classifiers
+[Distro]: https://github.com/cekpowell/distro
 [CSVQL IDE]:https://github.com/cekpowell/csvql-ide
 [CSVQL Programming Language]:https://github.com/cekpowell/csvql
-[Scene Recognition Classifiers]: https://github.com/cekpowell/scene-recognition-classifiers
 
