@@ -9,7 +9,7 @@ My name is **Charles Powell** and I am a fourth year MEng Computer Science stude
 - ✏️ UI & UX Design
 - 🧠 Machine Learning & Computer Vision
  
-#### ‼️ What I'm Working on Right Now ...
+#### 👔 What I'm Working on Right Now ...
 
 > *Unfortunately, as both of my current projects are commercial-based, I am not able to provide public repositories for them :(*
 
