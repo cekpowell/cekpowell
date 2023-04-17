@@ -5,7 +5,7 @@ My name is **Charles Powell** and I am a fourth year MEng Computer Science stude
 
 #### 🙋🏼‍♂️ My Current Interests ...
 
-- 📱 Mobile & Desktop Application Development
+- 📱 Mobile, Desktop & Web Development
 - ✏️ UI & UX Design
 - 🧠 Machine Learning & Computer Vision
  
